@@ -84,14 +84,3 @@ router.post("/modifyMentor", async (req, res) => {
 });
 
 module.exports = router;
-
-// const assignedStudents = ment.studentsAssigned;
-// const studList = [...assignedStudents, ...req.body.studentsArray];
-// const mentorData = await mentor.findByIdAndUpdate(
-//   req.body.mentorId,
-//   {
-//     studentsAssigned: studList,
-//   },
-//   { new: true }
-// ); // new:true , so we get updated result and not old result back
-// res.send(mentorData);
