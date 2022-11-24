@@ -4,7 +4,7 @@ const schema = mongoose.Schema;
 const dbConnect = async () => {
   try {
     await mongoose.connect(
-      "mongodb+srv://shibil_siva:siva1997@siva.5o2iufb.mongodb.net/?retryWrites=true&w=majority",
+      process.env.DB,
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
