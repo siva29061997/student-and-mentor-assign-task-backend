@@ -5,8 +5,10 @@
 Heroku Url : https://mentorsandstudents.herokuapp.com/
 <br>
 <br>
-Link to FrontEnd : https://github.com/kar-thee/zen-assignment-web-dev-task-eduHub
-<br><br>
+Link to FrontEndURL : https://637efa96a69c5523bc6564da--incandescent-moxie-18c9d0.netlify.app/
+<br>
+github repo : https://github.com/siva29061997/student-and-mentor-assign-task-frontend
+<br>
 <ul>
 TASK: 
 <li>
